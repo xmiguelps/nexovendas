@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NexoVendas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2dc4c686c00601b423d98b3c3a05f4a8f7f4e84f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+037775017d4f2953e80b31ab192bc83a04de38e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("NexoVendas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NexoVendas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
